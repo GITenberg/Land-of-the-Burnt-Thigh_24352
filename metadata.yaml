@@ -1,0 +1,35 @@
+_repo: Land-of-the-Burnt-Thigh_24352
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Voorhies, Stephen J.
+    gutenberg_agent_id: '26422'
+    url: http://www.gutenberg.org/2009/agents/26422
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kohl, Edith Eudora
+    birthdate: 1884
+    gutenberg_agent_id: '26420'
+    url: http://www.gutenberg.org/2009/agents/26420
+description: ''
+gutenberg_issued: '2008-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South Dakota -- Biography'
+- !lcsh 'Farm life -- South Dakota -- History'
+- !lcc 'F590.3'
+- !lcsh 'Kohl, Edith Eudora, 1884-'
+- !lcsh 'Frontier and pioneer life -- South Dakota'
+- !lcsh 'Pioneers -- South Dakota -- Biography'
+- !lcsh 'South Dakota -- Social life and customs'
+title: Land of the Burnt Thigh
+url: http://www.gutenberg.org/ebooks/24352
